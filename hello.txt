@@ -6,3 +6,4 @@ hello 测试github
 hello test
 hello new git
 hello 测试ssh方式提交
+hello 测试githubssh提交方式，联想机器
